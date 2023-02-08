@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "run lighthouse for any website and get metrics and diagonsis ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+ 
+    "lighthouse": "^9.6.8",
+    "puppeteer": "^19.4.1"
+  }
+}
